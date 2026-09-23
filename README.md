@@ -1,6 +1,8 @@
 # Portafolio de Proyectos Académicos
 
 **Hugo Edel Gamboa Sesma — A00841605**
+**Enrique Alexander Luna Sánchez - A00574602**
+**Alejandro Israel Manducano Rojo - A00841759**
 Tecnológico de Monterrey · 2025–2026
 
 Tres proyectos aplicados en manufactura, humanitarismo y física computacional, desarrollados en colaboración con organizaciones reales.
